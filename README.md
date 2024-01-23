@@ -29,8 +29,5 @@ This repository template for Leaflet web maps will help you start a new leaflet 
 - <a href="https://jquery.com/">JQuery 3.7.1</a> - A JavaScript library used to simplify the client-side scripting of HTML
 - <a href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js">Leaflet Library</a> - Open-source JavaScript library for interactive maps
 <br>
-<br>
 <b>1-minimap</b>
 - <a href="https://github.com/maneoverland/leaflet.WorldMiniMap">leaflet.WorldMiniMap</a> - Leaflet plugin that adds a small world-map-image, in which the actual view of the Leaflet Map is shown
-
-
