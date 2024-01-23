@@ -1,5 +1,5 @@
 $(() => {
-  const latitude = 30;
+  const latitude = 40;
   const longitude = 0;
 
   // Set up leaflet Map object
