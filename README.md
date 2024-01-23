@@ -2,10 +2,13 @@
 This repository template for Leaflet web maps will help you start a new leaflet map project quickly.
 
 ## 📌 Options
-- Main branch (default) 
-  - Basic map with zoom buttons and a scale bar.
+- <b>Main branch</b> (default) 
+  - Basic Leaflet map with zoom buttons and a scale bar.
   - Centered with a global map view.
   - Additional settings are added to prevent scrolling off the map, and map bounds are set to give it a bounce-back effect.
+
+- <b>1-minimap</b>
+  - Basic Leaflet map including a Simple minimap-control for leaflet.
 
 
 
@@ -25,4 +28,9 @@ This repository template for Leaflet web maps will help you start a new leaflet 
 ## 🔧 Dependencies
 - <a href="https://jquery.com/">JQuery 3.7.1</a> - A JavaScript library used to simplify the client-side scripting of HTML
 - <a href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js">Leaflet Library</a> - Open-source JavaScript library for interactive maps
+<br>
+<br>
+<b>1-minimap</b>
+- <a href="https://github.com/maneoverland/leaflet.WorldMiniMap">leaflet.WorldMiniMap</a> - Leaflet plugin that adds a small world-map-image, in which the actual view of the Leaflet Map is shown
+
 
