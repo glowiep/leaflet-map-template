@@ -38,4 +38,12 @@ $(() => {
   // Add leaflet.pm controls to the map
   map.pm.addControls(options);
 
+  // Add fullscreen button
+  map.addControl(new L.Control.Fullscreen({
+    title: {
+      'false': 'View Full Screen',
+      'true': 'Exit Full Screen'
+    }
+  }));
+
 })
