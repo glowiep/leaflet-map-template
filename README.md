@@ -9,7 +9,8 @@ This repository template for Leaflet web maps will help you start a new leaflet 
 
 
 ## ✨ Getting Started
-1. On the main page of this repository, click <b>Use this template</b> (above the file list).
+1. On the main page of this repository, click <b>Use this template</b>.<br>
+![Use this template button](docs/use-this-template.png)
 2. Select <b>Create a new repository</b>.
 3. Use the Owner dropdown menu to select the account you want to own the repository.
 4. Enter a name for your repository.
