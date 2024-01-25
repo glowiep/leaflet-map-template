@@ -2,13 +2,19 @@
 This repository template for Leaflet web maps will help you start a new leaflet map project quickly.
 
 ## 📌 Options
-- <b>Main branch</b> (default) 
-  - Basic Leaflet map with zoom buttons and a scale bar.
-  - Centered with a global map view.
-  - Additional settings are added to prevent scrolling off the map, and map bounds are set to give it a bounce-back effect.
+### Main Branch (Default)
+- Basic Leaflet map with zoom buttons and a scale bar.
+- Centered with a global map view.
+- Additional settings are added to prevent scrolling off the map, and map bounds are set to give it a bounce-back effect.
 
-- <b>1-minimap</b>
-  - Basic Leaflet map including a Simple minimap-control for leaflet.
+### 1-minimap
+- Basic Leaflet map
+- Includes a simple minimap-control for leaflet.
+
+### Version 1
+This branch includes a few useful plugins.
+- <a href="https://www.geoman.io/docs/getting-started/free-version">Leaflet-Geoman Drawing Toolbar</a>
+- <a href="https://github.com/Leaflet/Leaflet.fullscreen">Full-screen button</a>
 
 
 
@@ -21,7 +27,7 @@ This repository template for Leaflet web maps will help you start a new leaflet 
 6. Give this repo a ⭐ (This step is entirely optional of course, but if you do - you are a very nice person :D)
 
 ## 🏆 Goals
-- The purpose of this repository is so that the initial setup for a Leaflet map is quick and easy.
+- The purpose of this repository is so that the initial setup for a Leaflet map is quick and easy. (My goal was to be able to quickly set up a Leaflet web map repo with the setup I had used in previous projects)
 - Explore various Leaflet map options and variations in different branches.
 - This is great for any beginners that want to explore the use of JavaScript Leaflet library.
 
