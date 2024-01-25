@@ -46,4 +46,14 @@ $(() => {
     }
   }));
 
+  // Add minimap-control
+  L.control.worldMiniMap({
+    position: "bottomleft",
+    style: {
+      opacity: 0.9, 
+      borderRadius: '0px', 
+      backgroundColor: 'grey',
+    }
+  }).addTo(map);
+
 })
