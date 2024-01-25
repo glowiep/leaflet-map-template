@@ -15,7 +15,7 @@ This repository template for Leaflet web maps will help you start a new leaflet 
 3. Use the Owner dropdown menu to select the account you want to own the repository.
 4. Enter a name for your repository.
 5. To include the directory structure and files from all branches in the template, and not just the default branch, select <b>Include all branches</b>.
-6. Give this repo a ⭐ (This step is entirely optional of course, but if you do - you are a very nice person :D)
+6. Give this repo a ⭐ if you like it!
 
 
 ## 📌 Options
